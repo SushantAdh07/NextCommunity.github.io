@@ -4,7 +4,7 @@ name: Sushant Adhikari
 github: SushantAdh07
 website: https://sushantadh07.github.io/ 
 email: sushantadhikari2075@gmail.com
-instagram: 
+instagram: https://www.instagram.com/sus_hant07/
 twitter: 
 linkedin: 
 facebook: 
